@@ -929,3 +929,4 @@ Goal → Market pain → Evergreen skill → Junior reality → AI leverage → 
 
 # Use market survey sheet questions results and tracking sheet to do all thus.
 There are certain places where u find these founders and startups.
+After being stablef, find what you want from life.
