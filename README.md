@@ -60,7 +60,8 @@ Stack suggestion: Node + Express / Nest + PostgreSQL + Redis + Docker
 ---
 
 # 🧱 PHASE 2 – Database Design & SQL Mastery
-
+Top 50 DB questions
+Top 50 SQl questions
 ## 📚 Study Topics
 
 - 1:N relationships
