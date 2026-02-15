@@ -930,3 +930,56 @@ Goal → Market pain → Evergreen skill → Junior reality → AI leverage → 
 # Use market survey sheet questions results and tracking sheet to do all thus.
 There are certain places where u find these founders and startups.
 After being stablef, find what you want from life.
+
+
+
+🔼 Level Up – Engineers
+1️⃣ Databases
+
+MySQL
+
+MongoDB
+
+Elasticsearch
+
+DynamoDB
+
+Google Spanner
+
+Cassandra
+
+ClickHouse
+
+Redis / Aerospike
+
+2️⃣ Messaging Systems
+
+Kafka
+
+RabbitMQ
+
+3️⃣ Distributed Microservices Patterns
+
+Saga Pattern
+
+2PC (Two-Phase Commit)
+
+Retry Pattern
+
+Sidecar Pattern
+
+Service Mesh Pattern
+
+Circuit Breaker
+
+4️⃣ DevOps
+
+Kubernetes (EKS mentioned)
+
+CI/CD Pipeline
+
+API Gateway
+
+Load Balancer
+
+AWS and GCP Cloud Services
